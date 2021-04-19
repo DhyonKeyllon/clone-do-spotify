@@ -10,8 +10,9 @@ Clone Spotify
   </a>
 </p>
 
-## Recursos
-[//]: # (Add the features of your project here:)
+## Sobre o projeto
+<img src="imagens/Capturar.PNG" ></img>
+### Recursos
 Esses foram os recursos usados para o desenvolvimento:
 
 - **HTML5** 
