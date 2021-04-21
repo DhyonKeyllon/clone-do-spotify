@@ -18,6 +18,9 @@ Esses foram os recursos usados para o desenvolvimento:
 - **HTML5** 
 - **BOOTSTRAP 4**
 
+### Objetivo
+Objetivo principal do projeto é conseguir criar um site totalmente parecido com o site da spotify em 2018
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
