@@ -19,7 +19,7 @@ Esses foram os recursos usados para o desenvolvimento:
 - **BOOTSTRAP 4**
 
 ### Objetivo
-Objetivo principal do projeto é conseguir criar um site totalmente parecido com o site da spotify em 2018
+Objetivo principal do projeto é conseguir criar um site totalmente parecido com o site da Spotify em 2018
 
 ## License
 
