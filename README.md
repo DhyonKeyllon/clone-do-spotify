@@ -1,5 +1,9 @@
+<p align="center">
+    <img src="https://logodownload.org/wp-content/uploads/2016/09/spotify-logo-0.png" alt="Spotify" width="300" >
+</p>
+
 <h1 align="center">
-Clone Spotify
+UI Clone - Spotify
 </h1>
 
 <p align="center">Clone do Spotify criado do zero</p>
